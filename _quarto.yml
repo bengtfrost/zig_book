@@ -40,6 +40,6 @@ highlight-style: github
 format:
   html:
     theme:
-      light: cosmo
       dark: darkly
+      light: cosmo
 
